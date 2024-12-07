@@ -1,6 +1,6 @@
-# **Snowball**
+# **Snowballs**
 
-A super lightweight Minecraft plugin that adds a unique twist to snowball fights! When a player is hit by a snowball, they experience a screen freeze effect.
+A super lightweight Minecraft plugin that adds a unique feature to snowball fights! When a player is hit by a snowball, they experience a screen freeze effect.
 
 ## **Features**
 - 📌 **Screen Freeze Effect:** Players hit by a snowball experience a temporary screen freeze.
