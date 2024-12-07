@@ -19,5 +19,8 @@ A super lightweight Minecraft plugin that adds a unique twist to snowball fights
 ## **Usage**
 - Hit another player with a snowball to trigger the screen freeze effect.
 
+## **Preview**
+![Minecraft Spigot snowball plugin preview showing screen freeze effect when hit by a snowball](https://i.imgur.com/0Xpfyyc.png)
+
 ## **Support**
 If you encounter any issues or have suggestions, feel free to create an issue or reach out.
