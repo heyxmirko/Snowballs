@@ -1,0 +1,4 @@
+name: Snowballs
+version: '1.2.0'
+main: me.lukyn76.snowballs.Snowballs
+api-version: '1.19'
